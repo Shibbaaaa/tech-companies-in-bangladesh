@@ -17,6 +17,11 @@ List of tech companies to help developers to find jobs.
 |===
 |Company Name |Office location |Technologies | Web presence
 
+|ActiveXT
+|Head Office: Floor 5th, Flat-E2, House-12/A, Road-8, Gulshan 1, Dhaka 1212
+|JavaScript (React, Angular, TypeScript, NodeJS), React Native, React Hooks, MS 365, Python (Django), AWS, Drupal, OctoberCMS, GCP, Sylius, Docker, Xamarin, Java, Objective C, Adnroid, iOS, MSSQL, PostgreSQL, NoSQL, data entry, power BI, payment gateway .NET, PHP (Laravel, Symfony)
+|http://activextltd.com/[Website]
+
 |Adplay Technologies (VU Mobile)
 |Head Office: 4th Floor, House- 114, Road-12, Block-E, Banani, Dhaka-1213
 |JavaScript, React, Wordpress
